@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Calculator
 //
-//  Created by gpeterso on 3/3/18.
-//  Copyright © 2018 gpeterso. All rights reserved.
+//  Created by Peterson, Grant on 3/3/18.
+//  Copyright © 2018 Grant Peterson. All rights reserved.
 //
 
 import UIKit
